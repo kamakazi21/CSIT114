@@ -1,0 +1,36 @@
+Systems analysis – those activities that enable a person to understand and specify what an information system should accomplish
+Systems design – those activities that enable a person to define and describe in detail the system that solves the need
+A specific ordering of [work] activities across time and place, with a beginning, an end, and clearly identified inputs and outputs
+
+Development Process:
+Understand the need (business need)
+Capture the vision
+Define a solution
+Communicate the vision and solution
+Build the solution
+Confirm that the solution meets the need
+Launch the solution system
+
+System Development Life Cycle:
+1. Identify the problem or need and obtain approval
+2. Plan and monitor the project
+3. Discover and understand the details of the problem or
+need
+4. Design the system components that solve the problem
+5. Build, test, and integrate system components
+6. Complete system tests and then deploy the solution
+
+System development process – the actual approach used to develop a particular information system (aka: methodology)
+Agile development – an information system development process that emphasises flexibility to anticipate new requirements during development
+Iterative development – an approach to system development in which the system is “grown” piece by piece through multiple iterations
+
+Content covered in the course:
+_ Stakeholders
+– Work breakdown structures (WBS)
+– Use cases
+– Use case diagrams
+– Object classes (domain classes)
+– Class diagrams
+– Design class diagrams
+– High level structural design (architectural design)
+
